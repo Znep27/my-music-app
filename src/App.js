@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import AppBarComponent from "./Components/AppBarComponent";
-import Dashboard from "./Components/DashBoard";
+import Dashboard from "./Components/Dashboard";
 import OnlineMode from "./Components/OnlineMode";
 import MasterVolume from "./Components/MasterVolume";
 import SoundQuality from "./Components/SoundQuality";
